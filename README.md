@@ -6,7 +6,10 @@ REQUIREMENTS:
 3. Type in cygwin -> export PATH="/opt/cross/bin:$PATH"
 4. QEMU https://www.qemu.org/download 
 5. Visual Code Editor
-6. Patience and a little grey matter.
+7. Download this repo as 'Zip' and unzip the content to Cygwin/Home/<Whatever your username is, check your folder>
+8. type "cd trican-workshop-master" or whatever you renamed it as, just CD to the folder.
+9. type "cd <Whatever Level you wanna go>" and then type "make" to compile, "make qemu" to run.
+10. Patience and a little grey matter.
 
 If you got stuck, refer to https://wiki.osdev.org/GCC_Cross-Compiler.
 
