@@ -1,5 +1,7 @@
 Trican-Workshop
 
+FOR ANY ASSIST, Refer to https://wiki.osdev.org/Main_Page
+
 REQUIREMENTS:
 1. (WINDOWS USERS) Install Cygwin and also install 'make, nasm' through the Cygwin Installer (Remember to click 'Keep' Radio button Instead of current, you would understand when you see it). https://www.cygwin.com/setup-x86.exe
 2. (WINDOWS USERS) GCC Cross Compiler https://github.com/lordmilko/i686-elf-tools/releases (Copy the contents into the cygwin installation folder), Linux Users refer to https://wiki.osdev.org/GCC_Cross-Compiler; Alternative download : https://drive.google.com/open?id=0B9reqedTHQRTT3BZcml0T1JKV1E
